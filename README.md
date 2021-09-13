@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mukund-tiwari
 - 👀 I’m interested in Cloud Migration and Modernization.
-- 🌱 I’m currently learning Google Cloud Platform.
+- 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on Cloud administration (Azure, AWS or GCP)
 
 <!---
