@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mukund-tiwari
-- 👀 I’m interested in Cloud Migration and Modernization.
-- 🌱 I’m currently learning AWS.
-- 💞️ I’m looking to collaborate on Cloud administration (Azure, AWS or GCP)
+- 👀 I’m interested in Cloud Migration & Modernization and DevOps.
+- 🌱 I’m Associate level certified in all 3 major public cloud (AWS, Azure & GCP).
 
 <!---
 mukund-tiwari/mukund-tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
